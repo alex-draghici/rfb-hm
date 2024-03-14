@@ -1,0 +1,12 @@
+@tailwind base;
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-SemiBold.ttf') format('ttf'),
+    url('../fonts/OpenSans-SemiBold.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@tailwind components;
+@tailwind utilities;

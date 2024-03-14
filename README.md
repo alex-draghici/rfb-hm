@@ -1,3 +1,34 @@
+# refurbed homework
+
+Hi there,
+Let me tell you why I chose to work with Next.js + React instead of
+webpack and vanilla JavaScript.
+
+Opting for Next.js with React over vanilla JavaScript and Webpack is a 
+strategic choice for efficiency and performance. Next.js offers automatic 
+features like server-side rendering and code splitting, making your apps 
+faster and SEO-friendly. React's component model simplifies development, 
+making code reusable and easier to manage. This combination ensures your 
+projects are not only built faster but are also more scalable and 
+maintainable in the long run.
+
+For the sake completion, I also added header and navbar using the colors
+refurbed site.
+
+To start:
+
+`npm install`
+
+`npm run dev`
+
+The production-ready project can be seen here:
+https://rfb-hm.vercel.app/
+
+Repo:
+https://github.com/alex-draghici/rfb-hm/
+
+------------
+
 Hey, 
 
 welcome to the rapid prototyping environment of our homework for the Frontent Web Developer position. 
